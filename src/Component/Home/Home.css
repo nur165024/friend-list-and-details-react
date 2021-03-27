@@ -1,0 +1,14 @@
+.homepage{
+    text-align: center;
+    width: 100%;
+}
+.homeContent{
+    width: 20%;
+    margin: 15px;
+    float: left;
+    padding: 10px;
+    border: 1px solid lightslategray;
+}
+.homeContent button{
+    cursor: pointer;
+}
